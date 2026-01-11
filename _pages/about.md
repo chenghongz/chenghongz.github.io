@@ -13,7 +13,9 @@ redirect_from:
 
 ✉️ **I am actively seeking postdoctoral opportunities.**
 
-**If you’d like to discuss research or potential collaborations, feel free to email me anytime.**
+🗨️ **If you’d like to discuss research or potential collaborations, feel free to email me anytime.**
+
+🧑‍🔬 **If you are interested in quantum computer architecture, you are welcome to apply for RA or PhD positions in our lab.**
 
 Selected Publications
 ------
