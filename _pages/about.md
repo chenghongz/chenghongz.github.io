@@ -56,7 +56,7 @@ Talks
 
 + **2024/07**: 🎤 I have presented our paper "Entanglement cost of quantum state discrimination by measurements with local constraints" at <strong>ISIT 2024, Athens, Greece</strong>.
 
-+ **2023/08**: 🎤 I have presented our paper "Estimate distillable entanglement and quantum capacity by squeezing useless entanglement" at <strong>AQIS 2023, Korea (Long Talk, Top 5\%)</strong>.
++ **2023/08**: 🎤 I have presented our paper "Estimate distillable entanglement and quantum capacity by squeezing useless entanglement" at <strong>AQIS 2023, Korea (Long Talk, Top 5%)</strong>.
 
 Academic Services
 ------
