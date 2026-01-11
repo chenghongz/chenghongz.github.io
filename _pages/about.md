@@ -9,6 +9,10 @@ redirect_from:
 
 👨‍🎓 I am a 3rd-year AI PhD student at [QuAIR Laboratory](https://xinwang.group/), The Hong Kong University of Science and Technology (Guangzhou), under the supervision of Professor [Xin Wang](https://www.xinwang.info/). Before this, I received the B.S. and M.S. degree from the Univerisity of Melbourne in 2020 and 2022, under the supervision of Professor [Muhammad Usman](https://www.quantumelectronics.org/pi).
 
+
+> *Learning adds. The way subtracts.*
+> 为学日益 ，为道日损。——《道德经》
+
 ⚛️ My current research interests include Quantum Computer Architecture, Quantum Error Correction, and Quantum Machine learning.
 
 ✉️ **I am actively seeking postdoctoral opportunities.**
