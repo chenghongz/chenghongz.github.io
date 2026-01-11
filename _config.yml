@@ -23,7 +23,7 @@ repository               : "chenghongz/chenghongz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   name             : "Chenghong Zhu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ Quair Lab"
