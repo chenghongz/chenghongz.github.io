@@ -28,6 +28,13 @@ Jul 2020 - Jul 2022
 The University of Melbourne\
 Jul 2017 - Jul 2020
 
+Industry Experience
+------
+**Research Intern**\
+Baidu Research\
+Mentor: Prof. Xin Wang\
+Dec 2021 - April 2023
+
 Publications
 ------
 For a complete and citation-sorted list, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=LBqnlFYAAAAJ&view_op=list_works&sortby=pubdate).
