@@ -41,43 +41,51 @@ For a complete and citation-sorted list, please see my [Google Scholar profile](
 
 ### Quantum Architecture Design
 
-1. **Triage: An Adaptive Parallel Window Decoding Scheduler for Real-Time Fault-Tolerant Quantum Computation**\
+1. **BEACON: Broadcast-Enabled AC-Window Compilation for All-Electronic Trapped-Ion**\
+**Chenghong Zhu**, Zhimu Yang, Jiahan Chen, Zhaohui Yang, Xiyao Feng, Jingbo Wang, Xin Wang\
+HPCA2027
+
+2. **A Case for Privacy-Aware Surface Code Lattice Surgery Compilers**\
+**Chenghong Zhu**, Jiahan Chen, Xin Wang\
+HPCA2027
+
+3. **Triage: An Adaptive Parallel Window Decoding Scheduler for Real-Time Fault-Tolerant Quantum Computation**\
 Jiahan Chen, **Chenghong Zhu**, Ge Bai, Xin Wang\
 [ISCA 2026](https://arxiv.org/abs/2605.04459)
 
-2. **O3LS: Optimizing Lattice Surgery via Automatic Layout Searching and Loose Scheduling**\
+4. **O3LS: Optimizing Lattice Surgery via Automatic Layout Searching and Loose Scheduling**\
 **Chenghong Zhu**, Xian Wu, Jiahan Chen, Keming He, Junjie Wu, Xin Wang, Lingling Lao\
 [ISCA 2026](https://arxiv.org/abs/2604.15099)
 
-3. **A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness**\
+5. **A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness**\
 Ming Zhong, Zhemin Zhang, Xiangyu Ren, **Chenghong Zhu**, Siyuan Niu, Zhiding Liang\
 [arXiv:2511.10921](https://arxiv.org/abs/2511.10921), 2025
 
-4. **MUSS-TI: Multi-level Shuttle Scheduling for Large-Scale Entanglement Module Linked Trapped-Ion**\
+6. **MUSS-TI: Multi-level Shuttle Scheduling for Large-Scale Entanglement Module Linked Trapped-Ion**\
 Xian Wu, **Chenghong Zhu** (equal contribution), Jingbo Wang, Xin Wang\
 [MICRO 2025](https://dl.acm.org/doi/10.1145/3725843.3756129)
 
-5. **S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**\
+7. **S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**\
 **Chenghong Zhu**, Xian Wu, Jingbo Wang, Xin Wang\
 [ISCA 2025](https://dl.acm.org/doi/10.1145/3695053.3731084)
 
-6. **Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**\
+8. **Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**\
 **Chenghong Zhu**, Xian Wu, Zhaohui Yang, Jingbo Wang, Anbang Wu, Shenggen Zheng, Xin Wang\
 [arXiv:2505.16891](https://arxiv.org/abs/2505.16891), 2025
 
-7. **Scalable Quantum Architecture Search via Landscape Analysis**\
+9. **Scalable Quantum Architecture Search via Landscape Analysis**\
 **Chenghong Zhu**, Xian Wu, Hao-Kai Zhang, Sixuan Wu, Guangxi Li, Xin Wang\
 [arXiv:2505.05380](https://arxiv.org/abs/2505.05380), 2025
 
-8. **A quest toward comprehensive benchmarking of quantum computing software**\
+10. **A quest toward comprehensive benchmarking of quantum computing software**\
 **Chenghong Zhu**, Lei Zhang, Xin Wang\
 [Nature Computational Science](https://doi.org/10.1038/s43588-025-00803-y), 2025
 
-9. **PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**\
+11. **PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**\
 Zhaohui Yang, Dawei Ding, **Chenghong Zhu**, Jianxin Chen, Yuan Xie\
 [DAC 2025](https://doi.org/10.1109/DAC63849.2025.11133028)
 
-10. **BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap**\
+12. **BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap**\
 Xian Wu, **Chenghong Zhu** (equal contribution), Jingbo Wang, Xin Wang\
 [HPCA 2025](https://doi.org/10.1109/HPCA61900.2025.00032)
 
