@@ -43,11 +43,11 @@ For a complete and citation-sorted list, please see my [Google Scholar profile](
 
 1. **BEACON: Broadcast-Enabled AC-Window Compilation for All-Electronic Trapped-Ion**\
 **Chenghong Zhu**, Zhimu Yang, Jiahan Chen, Zhaohui Yang, Xiyao Feng, Jingbo Wang, Xin Wang\
-HPCA2027
+HPCA 2027
 
 2. **A Case for Privacy-Aware Surface Code Lattice Surgery Compilers**\
 **Chenghong Zhu**, Jiahan Chen, Xin Wang\
-HPCA2027
+HPCA 2027
 
 3. **Triage: An Adaptive Parallel Window Decoding Scheduler for Real-Time Fault-Tolerant Quantum Computation**\
 Jiahan Chen, **Chenghong Zhu**, Ge Bai, Xin Wang\
