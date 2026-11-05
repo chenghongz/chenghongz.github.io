@@ -1,9 +1,16 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Chenghong Zhu (朱成鸿)
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+**[Visit my personal website](https://chenghongz.github.io/)**
 
-# Getting Started
+I am a Scientist at QudeLeap Research. My research focuses on quantum computer architecture, quantum error correction, and quantum machine learning.
+
+This repository contains my academic website, including my publications, education, research experience, and talks.
+
+## Template
+
+The website is built with [AcademicPages](https://github.com/academicpages/academicpages.github.io), a Jekyll template for GitHub Pages. The setup and maintenance instructions below are retained from the template.
+
+## Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
