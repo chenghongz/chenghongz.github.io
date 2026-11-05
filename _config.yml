@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Chenghong Zhu's Homepage"
 title_separator          : "-"
 name                     : &name "Chenghong Zhu"
-description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Chenghong Zhu（朱成鸿）is a Scientist at QudeLeap Research, working on quantum computer architecture, quantum error correction, and quantum machine learning."
 url                      : https://chenghongz.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -191,6 +191,59 @@ exclude:
   - README
   - tmp
   - vendor
+  # Keep AcademicPages examples in the repository, but out of the public site.
+  - _posts/2012-08-14-blog-post-1.md
+  - _posts/2013-08-14-blog-post-2.md
+  - _posts/2014-08-14-blog-post-3.md
+  - _posts/2015-08-14-blog-post-4.md
+  - _posts/2199-01-01-future-post.md
+  - _publications/2009-10-01-paper-title-number-1.md
+  - _publications/2010-10-01-paper-title-number-2.md
+  - _publications/2015-10-01-paper-title-number-3.md
+  - _publications/2024-02-17-paper-title-number-4.md
+  - _publications/2025-06-08-paper-title-number-5.md
+  - _talks/2012-03-01-talk-1.md
+  - _talks/2013-03-01-tutorial-1.md
+  - _talks/2014-02-01-talk-2.md
+  - _talks/2014-03-01-talk-3.md
+  - _teaching/2014-spring-teaching-1.md
+  - _teaching/2015-spring-teaching-2.md
+  - _portfolio/portfolio-1.md
+  - _portfolio/portfolio-2.html
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  # Template demonstration pages and archives without personal content.
+  # CV and publication URLs redirect to the real content on the homepage.
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/year-archive.html
+  # Template generators, documentation, and the example talk map.
+  - CONTRIBUTING.md
+  - Dockerfile
+  - docker-compose.yaml
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
 keep_files:
   - .git
   - .svn

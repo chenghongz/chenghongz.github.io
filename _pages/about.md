@@ -1,10 +1,16 @@
 ---
 permalink: /
 title: "Chenghong Zhu｜朱成鸿"
+seo_title: "Chenghong Zhu（朱成鸿）| Quantum Computing Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /cv/
+  - /cv-json/
+  - /resume
+  - /resume-json
+  - /publications/
 ---
 
 👨‍🔬 I am a Scientist at QudeLeap Research. I received my Ph.D. in Artificial Intelligence from The Hong Kong University of Science and Technology (Guangzhou), under the supervision of Professor [Xin Wang](https://www.xinwang.info/). Before this, I received the B.S. and M.S. degree from the University of Melbourne in 2020 and 2022, under the supervision of Professor [Muhammad Usman](https://www.quantumelectronics.org/pi).
